@@ -1,16 +1,36 @@
+body{
+      background-color: #00000f
+}
+
+
 #titulo {
   text-align: center;
+  color: #2eaf07
 }
 
 #titulo2 {
   text-align: center;
+  color: #2eaf07
 }
+
 p {
   text-indent: 30px;
+  color: #ffffff
+}
+
+h2{
+  text-align: center;
+  color: #2eaf07
+}
+
+h3{
+  text-align: center;
+  color: #2eaf07
 }
 
 ui {
 
    text-align: center;
    list-style: square;
+   color: #ffffff
 }
