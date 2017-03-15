@@ -1,0 +1,56 @@
+body{
+    background-color: #00000f
+}
+
+h1 {
+  text-align: center;
+  color: #2eaf07
+}
+
+p {
+  text-indent: 30px;
+  color: #ffffff
+}
+
+h2{
+  text-align: center;
+  color: #2eaf07
+}
+
+h3{
+  text-align: center;
+  color: #2eaf07
+}
+
+h4{
+  color: #ffffff
+}
+
+td{
+  color: #ffffff
+}
+
+th{
+  color: #2eaf07
+}
+ui {
+   text-align: center;
+   list-style: square;
+   color: #ffffff
+}
+
+.li_central{
+  text-align: center;
+  list-style: square;
+}
+
+#link_retornar::before{
+  content:"\21b6";
+  font-size: 30
+}
+
+#img_span{
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+}
