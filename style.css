@@ -1,11 +1,54 @@
 body{
-    background-color: #00000f
+    background-color: #dddddd;
+}
+
+nav#menu ul {
+  width: 400px;
+  margin: 0 auto;
+}
+
+nav#menu ul li {
+  display: inline-block;
+  padding-right: 50px;
+}
+
+footer{
+  text-align: center;
+  color: #2eaf07;
+  font-size: 1.3em;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 500px;
+  margin: 0 auto;
+}
+
+
+.conteudo {
+  width: 500px;
+  margin: 0 auto;
+  background-color: black;
+  opacity: 0.8;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 40px;
+  border-style: solid;
+}
+
+p#sobre_html {
+  text-align: justify;
 }
 
 h1 {
   text-align: center;
   color: #2eaf07
 }
+
+
+
 
 p {
   text-indent: 30px;
@@ -33,10 +76,13 @@ td{
 th{
   color: #2eaf07
 }
-ui {
-   text-align: center;
+ul {
    list-style: square;
    color: #ffffff
+}
+
+li {
+  margin-bottom: 10px;
 }
 
 .li_central{
